@@ -41,7 +41,7 @@ Walmart Inc. wants to improve its profitability in Myanmar, and therefore needs 
 ## Files in this repository
 - [PowerBi file](https://github.com/Samarjeet-singh-chhabra/Walmart-Inc-Sales-Dashboard_powerBi/blob/main/WALMART%20SALES%20DASHBOARD.pbix)
 - [Dashboard View](https://github.com/Samarjeet-singh-chhabra/Walmart-Inc-Sales-Dashboard_powerBi/tree/main/Dashboard%20View)
-- [Dashboard View PDF](https://github.com/Samarjeet-singh-chhabra/Walmart-Inc-Sales-Dashboard_powerBi/blob/main/WALMART%20SALES%20DASHBOARD.pdf)
+- [Dashboard View PDF](https://github.com/Samarjeet-singh-chhabra/Walmart-Inc-Sales-Dashboard_powerBi/blob/main/Dashboard%20View.pdf)
 
 
 > V.0.0.1
